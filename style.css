@@ -1,0 +1,30 @@
+main{
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.container header span{
+    border-bottom: 3px solid;
+    width: 50px;
+    
+}
+
+#perfil{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 100% 100%;
+
+
+}
+
+
+.conteudo{
+    margin-top: 10vh;
+}
+
+
+.icon{
+    cursor: pointer;
+    color: aquamarine ;
+}
